@@ -1,6 +1,8 @@
-# React + Vite
+# my-react-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Learning how to use React with Vercel. Relearning how to code in HTML and JavaScript.
+
+This project uses Vite with React, HMR, and Oxlint rules.
 
 Currently, two official plugins are available:
 
